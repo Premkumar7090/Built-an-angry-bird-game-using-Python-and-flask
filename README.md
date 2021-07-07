@@ -15,8 +15,8 @@ pip install -r requirements.txt
 To play
 -------
 1. Clone the project.
-2. Open the src folder.
-3. `python main.py`
+2. Open the folder 'Built-an-angry-bird-game-using-Python'.
+3. execute `python main.py`
 
 Zero Gravity
 ------------
